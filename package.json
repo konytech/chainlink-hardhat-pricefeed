@@ -1,0 +1,16 @@
+{
+  "name": "chainlink-hardhat-pricefeed",
+  "version": "1.0.0",
+  "description": "Chainlink pricefeed implementation using the Hardhat development environment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.1.0",
+    "hardhat": "^2.6.7"
+  }
+}
