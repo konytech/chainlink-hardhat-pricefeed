@@ -28,7 +28,7 @@
   </a>
 
   <p align="center">
-    <h4>Enable EVM smart contracts to get the ETH/USD price on Polygon</h4>
+    <h4>Enable EVM smart contracts to get the ETH/USD price on Polygon using Chainlink</h4>
     <!--<br />
     Build this project from stratch: https://youtu.be/92rnG1t_55I
     <br />·-->
