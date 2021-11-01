@@ -82,7 +82,7 @@
 ## Setting Environment Variables
 
 The following environment variables are expected: `MUMBAI_RPC_URL`, `MNEMONIC` \
-The easiest way to set those variables is to create a `.env` file at the project root.
+Create a `.env` file or rename <a href=".env.example">.env.example</a> to `.env` and replace the values.
 
 `.env` example:
 ```
